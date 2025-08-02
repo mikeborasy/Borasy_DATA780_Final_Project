@@ -3,7 +3,7 @@ Predicting MLB game outcomes using supervised machine learning on 2025 team-leve
 
 # MLB Game Outcome Prediction — DATA 780 Final Project
 
-This project applies supervised machine learning techniques to predict the outcome of MLB games using 2025 team-level statistics. It was completed as a final individual project for the graduate-level course DATA 780: Capstone in Data Science at UNC Chapel Hill.
+This project applies supervised machine learning techniques to predict the outcome of MLB games using 2025 team-level statistics. It was completed as a final individual project for the graduate-level course DATA 780 at UNC Chapel Hill MADS Masters Program. 
 
 ## Description
 
